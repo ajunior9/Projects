@@ -1,0 +1,27 @@
+        /*################################# */
+        /* start and Stop styling */
+        /*    ##################################### */
+        
+        body {
+            height: 100vh;
+            background: url(vecteezy_swimming-pool-stairs_1226963.jpg) no-repeat center center/cover;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        
+        .countdown-container {
+            width: 200px;
+            height: 200px;
+            background-color: #f1f1f1;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-family: Arial, sans-serif;
+        }
+        
+        .countdown {
+            font-size: 36px;
+            text-align: center;
+        }
